@@ -1,0 +1,16 @@
+{
+	"name": "ai-rate-limit",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "Rituraj Phukan",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^20.14.8"
+	}
+}
